@@ -4,11 +4,8 @@ here you are gonna learn how fast and how great python is at solving problems th
 
 so without anything further lets continue with your first python project:
 
-![alt text](image.png)
 
 # **ex0**
-
-![alt text](image-1.png)
 
 so now you are asked to create a function named:
 
@@ -45,9 +42,6 @@ for this exercise you will not need a main
 ---
 
 # **ex1**
-
-![alt text](image-2.png)
-
 ok now we are at ex1
 
 we are asked to create a function named:
@@ -123,8 +117,6 @@ print(f"Garden: {a}")
 
 # **ex2**
 
-![alt text](image-3.png)
-
 now ex2 wants us to calculate the area of a plot
 
 we need to ask the user for the length and the width
@@ -176,8 +168,6 @@ day1 + day2 + day3
 
 # **ex4**
 
-![alt text](image-4.png)
-
 ex4 will now introduce `if` and `else`
 
 so create the function and then do a quick if/else
@@ -210,8 +200,6 @@ the main difference is that python uses indentation instead of brackets
 
 # **ex5**
 
-![alt text](image-5.png)
-
 as you can see ex5 is almost the same
 
 it is just another `if/else`
@@ -237,9 +225,6 @@ you will learn more about handling those cases in later modules because this is 
 ---
 
 # **ex6**
-
-![alt text](image-6.png)
-
 ok now we are at ex6
 
 here we are asked to create 2 functions:
@@ -394,8 +379,6 @@ the only difference is that the iterative version uses a loop while the recursiv
 ---
 
 # **ex7**
-
-![alt text](image-7.png)
 
 ok now we are at ex7
 
